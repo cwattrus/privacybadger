@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** At aktivere læring i Private/Inkognito-vinduer kan efterlade spor af din private browsinghistorik på din computer. Som standard vil Privacy Badger blokere sporinger den allerede kender til i Private/Inkognito-vinduer, men den vil ikke lære om nye sporinger. Du vil muligvis slå denne indsilling til hvis du browser meget med Private/Inkognito-vinduer.",
+        "message": "At aktivere læring i Private/Inkognito-vinduer kan efterlade spor af din private browsinghistorik på din computer. Som standard vil Privacy Badger blokere sporinger den allerede kender til i Private/Inkognito-vinduer, men den vil ikke lære om nye sporinger. Du vil muligvis slå denne indsilling til hvis du browser meget med Private/Inkognito-vinduer.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Lær i Private/Inkognito-vinduer **",
+        "message": "Lær i Private/Inkognito-vinduer",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Usynlig sporing sker på alle mulige måder; reklamer er blot isbjergets synlige top. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>sender 'Spor Ikke'-signalet</a> til sporinger for at bede dem om ikke at spore dig. Hvis de ignorerer dine ønsker, lærer Privacy Badger at blokere dem—uanset om de er reklamer eller andre typer af sporinger.",
+        "message": "Usynlig sporing sker på alle mulige måder; reklamer er blot isbjergets synlige top. Privacy Badger sender 'Spor Ikke'-signalet</a> til sporinger for at bede dem om ikke at spore dig. Hvis de ignorerer dine ønsker, lærer Privacy Badger at blokere dem—uanset om de er reklamer eller andre typer af sporinger.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Send netsteder signalet \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Spor Ikke</a>\"",
+        "message": "Send netsteder signalet \"Spor Ikke\"",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

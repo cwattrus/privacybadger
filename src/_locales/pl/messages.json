@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Włączenie nauki w trybie prywatnym może pozostawić ślady Twojego przeglądania prywatnego na komputerze. Domyślnie Privacy Badger będzie blokował już znane śledziki w oknach prywatnych, ale nie będzie uczył się na temat nowych. Możesz zmienić tę opcję, jeżeli dużo serfujesz w trybie prywatnym.",
+        "message": "Włączenie nauki w trybie prywatnym może pozostawić ślady Twojego przeglądania prywatnego na komputerze. Domyślnie Privacy Badger będzie blokował już znane śledziki w oknach prywatnych, ale nie będzie uczył się na temat nowych. Możesz zmienić tę opcję, jeżeli dużo serfujesz w trybie prywatnym.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Ucz się w trybie prywatnym **",
+        "message": "Ucz się w trybie prywatnym",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Niewidoczne śledziki działają na różne sposoby, reklamy to tylko czubek góry lodowej. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>przesyła żądanie DNT (nie śledź mnie)</a> do elementów śledzących. Jeżeli zignorują one Twoją prośbę, Twój Badger nauczy się go blokować – bez względu na to czy jest to reklama, śledzik, czy inne badziewie.",
+        "message": "Niewidoczne śledziki działają na różne sposoby, reklamy to tylko czubek góry lodowej. Privacy Badger przesyła żądanie DNT (nie śledź mnie)</a> do elementów śledzących. Jeżeli zignorują one Twoją prośbę, Twój Badger nauczy się go blokować – bez względu na to czy jest to reklama, śledzik, czy inne badziewie.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Wysyłaj do stron sygnał <a href='https://www.eff.org/issues/do-not-track' target='_blank'>„Nie Śledź Mnie” (DNT)</a>",
+        "message": "Wysyłaj do stron sygnał „Nie Śledź Mnie” (DNT)",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

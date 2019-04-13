@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Als u leren in incognitovensters inschakelt kunnen er sporen van uw privé browsegeschiedenis op uw computer achterblijven. Standaard blokkeert Privacy Badger wel bekende trackers in incognitovensters, maar leert het niets over nieuwe trackers. U kunt deze optie inschakelen als u veel gebruik maakt van incognitovensters.",
+        "message": "Als u leren in incognitovensters inschakelt kunnen er sporen van uw privé browsegeschiedenis op uw computer achterblijven. Standaard blokkeert Privacy Badger wel bekende trackers in incognitovensters, maar leert het niets over nieuwe trackers. U kunt deze optie inschakelen als u veel gebruik maakt van incognitovensters.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Leer in incognitovensters **",
+        "message": "Leer in incognitovensters",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Onzichtbare tracking gebeurt op allerlei manieren; advertenties zijn slechts het zichtbare topje van de ijsberg. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>stuurt het Niet Volgen-signaal</a> (Do Not Track) naar trackers om hen te verzoeken u niet te volgen. Als ze het verzoek negeren leert uw Badger ze te blokkeren, of ze nu adverteerders of andere soorten trackers zijn.",
+        "message": "Onzichtbare tracking gebeurt op allerlei manieren; advertenties zijn slechts het zichtbare topje van de ijsberg. Privacy Badger stuurt het Niet Volgen-signaal</a> (Do Not Track) naar trackers om hen te verzoeken u niet te volgen. Als ze het verzoek negeren leert uw Badger ze te blokkeren, of ze nu adverteerders of andere soorten trackers zijn.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Stuur websites het \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Niet volgen</a>\"-signaal (Do Not Track)",
+        "message": "Stuur websites het\" Niet volgen\"-signaal (Do Not Track)",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** L'attivazione dell'apprendimento nelle finestre Private/Incognito potrebbe lasciare tracce nel computer della tua cronologia privata. Normalmente, nelle finestre Private/Incognito Privacy Badger blocca i tracker che conosce già, ma non ricorderà quelli nuovi. Potresti volere attivare questa opzione se navighi spesso utilizzando le finestre Private/Incognito.",
+        "message": "L'attivazione dell'apprendimento nelle finestre Private/Incognito potrebbe lasciare tracce nel computer della tua cronologia privata. Normalmente, nelle finestre Private/Incognito Privacy Badger blocca i tracker che conosce già, ma non ricorderà quelli nuovi. Potresti volere attivare questa opzione se navighi spesso utilizzando le finestre Private/Incognito.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Apprendi nelle finestre Private/Incognito **",
+        "message": "Apprendi nelle finestre Private/Incognito",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Il tracciamento invisibile ha molte forme; le pubblicità sono solo la punta visibile dell'iceberg. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>invia il segnale Do Not Track</a> ai tracker dicendo loro di non tracciarti. Se ignorano la tua scelta, il tuo Badger imparerà a bloccarli—che siano inserzionisti o tracker di altro tipo.",
+        "message": "Il tracciamento invisibile ha molte forme; le pubblicità sono solo la punta visibile dell'iceberg. Privacy Badger invia il segnale Do Not Track</a> ai tracker dicendo loro di non tracciarti. Se ignorano la tua scelta, il tuo Badger imparerà a bloccarli—che siano inserzionisti o tracker di altro tipo.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Invia ai siti il segnale \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track</a>\"",
+        "message": "Invia ai siti il segnale \"Do Not Track\"",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

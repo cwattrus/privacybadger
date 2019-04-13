@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** اجازه یادگیری در پنجره های خصوصی/ناشناس ممکن است ردی از تاریخچه گشت خصوصی شما در وب روی کامپیوترتان به جا بگذارد. به صورت پیش فرض، پرایوسی بجر ردیاب هایی که در پنجره های خصوصی/ناشناس می شناسد را بلاک خواهد کرد، اما درباره ردیاب های جدید اطلاعی کسب نخواهد کرد. اگر بیشتر وقت خود را در پنجره های خصوصی/ناشناس می گذرانید شاید بهتر باشد که این گزینه را فعال کنید.",
+        "message": "اجازه یادگیری در پنجره های خصوصی/ناشناس ممکن است ردی از تاریخچه گشت خصوصی شما در وب روی کامپیوترتان به جا بگذارد. به صورت پیش فرض، پرایوسی بجر ردیاب هایی که در پنجره های خصوصی/ناشناس می شناسد را بلاک خواهد کرد، اما درباره ردیاب های جدید اطلاعی کسب نخواهد کرد. اگر بیشتر وقت خود را در پنجره های خصوصی/ناشناس می گذرانید شاید بهتر باشد که این گزینه را فعال کنید.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "یادگیری در پنجره های خصوصی/ناشناس **",
+        "message": "یادگیری در پنجره های خصوصی/ناشناس",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "ردیابی پنهان در شکل های مختلف صورت میگیرد; تبلیغات فقط بخش کوچکی از آن به شمار میروند. پرایوسی بجر <a href='https://www.eff.org/issues/do-not-track' target='_blank'> سیگنال ردیابی نکن </a> را به ردیاب ها می فرستد تا به آن ها بگوید شما را ردیابی نکنند. اگر خواسته شما را رد کنند، یاد میگیرد تا آن ها را بلاک کند - چه ردیاب های تبلیغاتی باشند چه ردیاب هایی از نوع دیگر.",
+        "message": "ردیابی پنهان در شکل های مختلف صورت میگیرد; تبلیغات فقط بخش کوچکی از آن به شمار میروند. پرایوسی بجر  سیگنال ردیابی نکن </a> را به ردیاب ها می فرستد تا به آن ها بگوید شما را ردیابی نکنند. اگر خواسته شما را رد کنند، یاد میگیرد تا آن ها را بلاک کند - چه ردیاب های تبلیغاتی باشند چه ردیاب هایی از نوع دیگر.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "به وبسایت ها سیگنال \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'> ردیابی نکن </a>\" بفرست",
+        "message": "به وبسایت ها سیگنال ردیابی نکن  بفرست",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Jos valitset oppimisen yksityinen selaus / incognito-ikkunoissa, tietokoneellesi voi jäädä jälkiä selaushistoriastasi. Oletusarvoisesti Privacy Badger estää tuntemansa jäljittimet yksityinen selaus / incognito-ikkunoissa, muttei opi uusia jäljittimiä. Tämä valinta voi olla paikallaan, jos selaat nettiä paljon yksityinen selaus / incognito-ikkunoissa.",
+        "message": "Jos valitset oppimisen yksityinen selaus / incognito-ikkunoissa, tietokoneellesi voi jäädä jälkiä selaushistoriastasi. Oletusarvoisesti Privacy Badger estää tuntemansa jäljittimet yksityinen selaus / incognito-ikkunoissa, muttei opi uusia jäljittimiä. Tämä valinta voi olla paikallaan, jos selaat nettiä paljon yksityinen selaus / incognito-ikkunoissa.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Opi yksityinen selaus / incognito-ikkunoissa **",
+        "message": "Opi yksityinen selaus / incognito-ikkunoissa",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Näkymätöntä seurantaa on monenlaista; mainokset ovat vain jäävuoren huippu. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>lähettää Do Not Track -signaalin</a> jäljittimille, ilmoittaen niille olla seuraamatta sinua. Jos ne eivät noudata pyyntöäsi, Badgerisi oppii estämään ne – olivat ne sitten mainostajia tai muunlaisia jäljittäjiä.",
+        "message": "Näkymätöntä seurantaa on monenlaista; mainokset ovat vain jäävuoren huippu. Privacy Badger lähettää Do Not Track -signaalin</a> jäljittimille, ilmoittaen niille olla seuraamatta sinua. Jos ne eivät noudata pyyntöäsi, Badgerisi oppii estämään ne – olivat ne sitten mainostajia tai muunlaisia jäljittäjiä.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Lähetä sivustoille \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track</a>\"-signaali",
+        "message": "Lähetä sivustoille \"Do Not Track\"-signaali",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

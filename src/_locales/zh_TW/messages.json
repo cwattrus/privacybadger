@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** 在隱私／無痕視窗中啟用學習可能會導致隱私瀏覽紀錄留在您的電腦上。預設情況下，Privacy Badger 會在隱私／無痕視窗中阻擋任何已知的追蹤器，但是不會學習任何新的追蹤器。您可能會想要在您的瀏覽大部份都在隱私／無痕視窗中度過時啟用此選項。",
+        "message": "在隱私／無痕視窗中啟用學習可能會導致隱私瀏覽紀錄留在您的電腦上。預設情況下，Privacy Badger 會在隱私／無痕視窗中阻擋任何已知的追蹤器，但是不會學習任何新的追蹤器。您可能會想要在您的瀏覽大部份都在隱私／無痕視窗中度過時啟用此選項。",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "在隱私／無痕視窗中學習 **",
+        "message": "在隱私／無痕視窗中學習",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "不可見的追蹤會以各種方式發生：廣告只是可見的冰山一角。Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>將「不追蹤」訊號傳送</a>給追蹤器，告訴它們不要追蹤您。如果它們忽視了這個要求，您的 Badger 將會學會阻擋它們，無論它們是廣告商還是其他類型的追蹤器。",
+        "message": "不可見的追蹤會以各種方式發生：廣告只是可見的冰山一角。Privacy Badger 將「不追蹤」訊號傳送</a>給追蹤器，告訴它們不要追蹤您。如果它們忽視了這個要求，您的 Badger 將會學會阻擋它們，無論它們是廣告商還是其他類型的追蹤器。",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "傳送「<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track</a>」訊號給網頁",
+        "message": "傳送「Do Not Track」訊號給網頁",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

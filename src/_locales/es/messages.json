@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Permitir el aprendizaje en ventanas privadas o de incógnito puede dejar rastros de su historial de navegación privada en su computadora. Privacy Badger bloquea de forma predeterminada los rastreadores que ya conoce en las ventanas privadas o de incógnito, pero no reconoce rastreadores nuevos. Es posible que desee habilitar esta opción si gran parte de su navegación ocurre en ventanas privadas o de incógnito.",
+        "message": "Permitir el aprendizaje en ventanas privadas o de incógnito puede dejar rastros de su historial de navegación privada en su computadora. Privacy Badger bloquea de forma predeterminada los rastreadores que ya conoce en las ventanas privadas o de incógnito, pero no reconoce rastreadores nuevos. Es posible que desee habilitar esta opción si gran parte de su navegación ocurre en ventanas privadas o de incógnito.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Aprender en ventanas privadas o de incógnito **",
+        "message": "Aprender en ventanas privadas o de incógnito",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "El rastreo invisible ocurre de muchas maneras; los anuncios son solo la punta visible del iceberg. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>envía la señal No rastrear</a> a los rastreadores diciéndoles que no le rastreen. Si ignoran sus deseos, Badger aprende a bloquearlos, ya sean anunciantes o rastreadores de otros tipos.",
+        "message": "El rastreo invisible ocurre de muchas maneras; los anuncios son solo la punta visible del iceberg. Privacy Badger envía la señal No rastrear</a> a los rastreadores diciéndoles que no le rastreen. Si ignoran sus deseos, Badger aprende a bloquearlos, ya sean anunciantes o rastreadores de otros tipos.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Enviar a los sitios web la señal «<a href='https://www.eff.org/issues/do-not-track' target='_blank'>No rastrear</a>»",
+        "message": "Enviar a los sitios web la señal «No rastrear»",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

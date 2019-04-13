@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Aktivigo de lernado en privataj fenestroj povas resti spurojn de historio de via privata retumado en via komputilo. Implicite Privata Melo blokos jam-konatajn spurilojn en privataj langetoj, tamen ne lernos pri novaj spuriloj. Vi povas aktivigi tiun ĉi agordon, se vi multe retumas en privataj fenestroj.",
+        "message": "Aktivigo de lernado en privataj fenestroj povas resti spurojn de historio de via privata retumado en via komputilo. Implicite Privata Melo blokos jam-konatajn spurilojn en privataj langetoj, tamen ne lernos pri novaj spuriloj. Vi povas aktivigi tiun ĉi agordon, se vi multe retumas en privataj fenestroj.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Lerni en privataj fenestroj **",
+        "message": "Lerni en privataj fenestroj",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Nevidebla spurado okazas plurmaniere; reklamoj estas nur videbla parteto de tutaĵo. Privata Melo <a href='https://www.eff.org/issues/do-not-track' target='_blank'>sendas la signalon “Ne Spuri Min” (DNT)</a> por peti spurilojn pri ne spuri. Se ili ignoras vian peton, via Melĉjo lernos pri bloki ilin – ĉu ili estas reklamoj aŭ spuriloj aŭ aliaj aĉaĵoj.",
+        "message": "Nevidebla spurado okazas plurmaniere; reklamoj estas nur videbla parteto de tutaĵo. Privata Melo sendas la signalon “Ne Spuri Min” (DNT)</a> por peti spurilojn pri ne spuri. Se ili ignoras vian peton, via Melĉjo lernos pri bloki ilin – ĉu ili estas reklamoj aŭ spuriloj aŭ aliaj aĉaĵoj.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Sendi al retejoj la signalon <a href='https://www.eff.org/issues/do-not-track' target='_blank'>“Ne Spuri Min” (DNT)</a>",
+        "message": "Sendi al retejoj la signalon \"Ne Spuri Min\" (DNT)",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

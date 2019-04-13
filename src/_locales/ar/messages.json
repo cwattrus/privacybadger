@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** تفعيل التعلم في نوافذ التصفح الخاص قد يترك آثارا لتأريخ تصفحك الخاص على حاسوبك. مبدئيا سيحجب «غرير الخصوصية» المتعقبات التي يعرفها من قبل في نوافذ التصفح الخاص، لكنه لن يتعلم أي متعقبات جديدة. قد تريد تفعيل هذا الخيار إن كان الكثير من تصفحك في نوافذ خاصة.",
+        "message": "تفعيل التعلم في نوافذ التصفح الخاص قد يترك آثارا لتأريخ تصفحك الخاص على حاسوبك. مبدئيا سيحجب «غرير الخصوصية» المتعقبات التي يعرفها من قبل في نوافذ التصفح الخاص، لكنه لن يتعلم أي متعقبات جديدة. قد تريد تفعيل هذا الخيار إن كان الكثير من تصفحك في نوافذ خاصة.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "تعلم في نوافذ التصفح الخاص **",
+        "message": "تعلم في نوافذ التصفح الخاص",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "مصادر المتعقبات الخفية كثيرة؛ الإعلانات ليست إلا القمة الظاهرة من جبل الجليد. يرسل «غرير الخصوصية» <a href='https://www.eff.org/issues/do-not-track' target='_blank'>إشارة ”لا تتعقبني“</a> إلى المتعقبات ليخبرهم ألا يتعقبوك. لكن إذا تجاهلوا رغبتك تلك فيسعرف «غريرك» أن عليه حجبهم؛ سواء كانوا معلِنين أو متعقبين من أي نوع آخر.",
+        "message": "مصادر المتعقبات الخفية كثيرة؛ الإعلانات ليست إلا القمة الظاهرة من جبل الجليد. يرسل «غرير الخصوصية» إشارة ”لا تتعقبني“</a> إلى المتعقبات ليخبرهم ألا يتعقبوك. لكن إذا تجاهلوا رغبتك تلك فيسعرف «غريرك» أن عليه حجبهم؛ سواء كانوا معلِنين أو متعقبين من أي نوع آخر.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "أرسل إلى المواقع إشارة ”<a href='https://www.eff.org/issues/do-not-track' target='_blank'>لا تتعقبني</a>“",
+        "message": "أرسل إلى المواقع إشارة لا تتعقبني",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

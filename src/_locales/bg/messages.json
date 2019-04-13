@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Ако позволиш ученето в Поверителни/Инкогнито прозорци, това може да остави на компютъра ти следи от историята, докато си сърфирал поверително. По подразбиране Privacy Badger ще блокира в Поверителните/Инкогнито прозорци преследвачите, за които вече знае, но няма да се учи за нови преследвачи. Би било полезно да включиш тази настройка, ако сърфираш редовно в Поверителни/Инкогнито прозорци.",
+        "message": "Ако позволиш ученето в Поверителни/Инкогнито прозорци, това може да остави на компютъра ти следи от историята, докато си сърфирал поверително. По подразбиране Privacy Badger ще блокира в Поверителните/Инкогнито прозорци преследвачите, за които вече знае, но няма да се учи за нови преследвачи. Би било полезно да включиш тази настройка, ако сърфираш редовно в Поверителни/Инкогнито прозорци.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Учи се в Поверителни/Инкогнито прозорци **",
+        "message": "Учи се в Поверителни/Инкогнито прозорци",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Невидимото следене се случва по какви ли не начини; рекламите са просто върха на сладоледа. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>изпраща сигнала Do Not Track (Не ме следи)</a> на преследвачите, за да им каже да не те следят. Ако пренебрегват желанията ти, язовецът ти ще се научи да ги блокира — независимо дали са рекламодатели или друг вид преследвачи.",
+        "message": "Невидимото следене се случва по какви ли не начини; рекламите са просто върха на сладоледа. Privacy Badger изпраща сигнала Do Not Track (Не ме следи)</a> на преследвачите, за да им каже да не те следят. Ако пренебрегват желанията ти, язовецът ти ще се научи да ги блокира — независимо дали са рекламодатели или друг вид преследвачи.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Изпращай на сайтовете сигнал \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track (Не ме следи)</a>\"",
+        "message": "Изпращай на сайтовете сигнал \"Do Not Track\" (Не ме следи)",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

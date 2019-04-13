@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Die Aktivierung des Lernens in privaten bzw. Inkognito-Fenstern hinterlässt eventuell Spuren Ihres privaten Surfverlaufs auf Ihrem Computer. In privaten/Inkognito-Fenstern blockt Privacy Badger standardmäßig bereits bekannte Tracker, erlernt aber keine neuen. Falls Sie oft private/Inkognito-Fenster verwenden, kann die Aktivierung dieser Option Sinn machen.",
+        "message": "Die Aktivierung des Lernens in privaten bzw. Inkognito-Fenstern hinterlässt eventuell Spuren Ihres privaten Surfverlaufs auf Ihrem Computer. In privaten/Inkognito-Fenstern blockt Privacy Badger standardmäßig bereits bekannte Tracker, erlernt aber keine neuen. Falls Sie oft private/Inkognito-Fenster verwenden, kann die Aktivierung dieser Option Sinn machen.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Auch in privaten bzw. Inkognito-Fenstern lernen **",
+        "message": "Auch in privaten bzw. Inkognito-Fenstern lernen",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Unsichtbares Tracking wird auf verschiedenen Wegen realisiert; Werbeanzeigen sind hierbei nur die Spitze des Eisbergs. Privacy Badger teilt Trackern über das <a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do-Not-Track-Signal</a> mit, dass Sie nicht verfolgt werden wollen. Falls diese Ihre Wünsche ignorieren, lernt Privacy Badger, sie zu blocken — egal, ob es sich um Werbeanzeigen oder andere Arten von Trackern handelt.",
+        "message": "Unsichtbares Tracking wird auf verschiedenen Wegen realisiert; Werbeanzeigen sind hierbei nur die Spitze des Eisbergs. Privacy Badger teilt Trackern über das Do-Not-Track-Signal</a> mit, dass Sie nicht verfolgt werden wollen. Falls diese Ihre Wünsche ignorieren, lernt Privacy Badger, sie zu blocken — egal, ob es sich um Werbeanzeigen oder andere Arten von Trackern handelt.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Websites eine »<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track</a>«-Anforderung senden",
+        "message": "Websites eine »Do Not Track«-Anforderung senden",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Dans les fenêtres de navigation privée, Privacy Badger se contente de bloquer les traceurs qu'il connait. En activant cette option, il cherchera aussi à en identifier de nouveaux. Ceci pourrait laisser sur votre ordinateur des traces de sites que vous visitez. Son utilité pourrait se révéler si vous naviguez beaucoup en mode privé.",
+        "message": "Dans les fenêtres de navigation privée, Privacy Badger se contente de bloquer les traceurs qu'il connait. En activant cette option, il cherchera aussi à en identifier de nouveaux. Ceci pourrait laisser sur votre ordinateur des traces de sites que vous visitez. Son utilité pourrait se révéler si vous naviguez beaucoup en mode privé.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Activer l'apprentissage dans les fenêtres de navigation privée **",
+        "message": "Activer l'apprentissage dans les fenêtres de navigation privée",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Différentes méthodes de traçage invisible existent. Les publicités ne sont que la partie émergée de l'iceberg. Privacy Badger envoi une requête <a href='https://www.eff.org/issues/do-not-track' target='_blank'>Ne pas me pister</a> aux traceurs. S'ils ne coopèrent pas, il apprendra à les bloquer, que ce soient des publicités ou des traceurs d'une autre sorte. ",
+        "message": "Différentes méthodes de traçage invisible existent. Les publicités ne sont que la partie émergée de l'iceberg. Privacy Badger envoi une requête Ne pas me pister</a> aux traceurs. S'ils ne coopèrent pas, il apprendra à les bloquer, que ce soient des publicités ou des traceurs d'une autre sorte. ",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Envoyer l'entête « <a href='https://www.eff.org/issues/do-not-track' target='_blank'>Ne pas me pister</a> » aux sites web",
+        "message": "Envoyer l'entête « Ne pas me pister » aux sites web",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

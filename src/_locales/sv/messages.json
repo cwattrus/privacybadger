@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Aktivering av inlärning i privata-/inkognitofönster kan lämna spår av din privata surfhistorik på din dator. Som standard kommer Privacy Badger att blockera spårare som den redan känner till i privata-/inkognitofönster, men den kommer inte att lära sig om nya spårare. Du kan vilja aktivera den här inställningen om du ofta använder privata-/inkognitofönster när du surfar.",
+        "message": "Aktivering av inlärning i privata-/inkognitofönster kan lämna spår av din privata surfhistorik på din dator. Som standard kommer Privacy Badger att blockera spårare som den redan känner till i privata-/inkognitofönster, men den kommer inte att lära sig om nya spårare. Du kan vilja aktivera den här inställningen om du ofta använder privata-/inkognitofönster när du surfar.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Inlärning i privata-/inkognitofönster **",
+        "message": "Inlärning i privata-/inkognitofönster",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Osynlig spårning sker på alla sätt; annonser är bara den synliga toppen av isberget. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>skickar signalen Spåra inte (Do Not Track)</a> till spårare som berätta för dem att inte spåra dig. Om de ignorerar dina önskemål kommer din Badger att lära sig att blockera dem - oavsett om de är annonsörer eller spårare av andra slag.",
+        "message": "Osynlig spårning sker på alla sätt; annonser är bara den synliga toppen av isberget. Privacy Badger skickar signalen Spåra inte (Do Not Track)</a> till spårare som berätta för dem att inte spåra dig. Om de ignorerar dina önskemål kommer din Badger att lära sig att blockera dem - oavsett om de är annonsörer eller spårare av andra slag.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Skicka \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Spåra inte</a>\"-signal till webbplatser",
+        "message": "Skicka \"Spåra inte\"-signal till webbplatser",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {

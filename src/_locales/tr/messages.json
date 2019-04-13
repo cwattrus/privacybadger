@@ -136,7 +136,7 @@
         "description": "Checkbox label on the general settings page"
     },
     "options_incognito_warning": {
-        "message": "** Özel/gizli pencerelerde öğrenmeyi etkinleştirmek bilgisayarınızdaki özel arama geçmişinize dair izler bırakabilir. Varsayılan olarak, Privacy Badger halihazırda haberdar olduğu takipçileri Özel/Gizli pencerelerde engeller, ancak yeni takipçiler hakkında bilgi edinmez. Eğer gezintinizin büyük bölümü Özel/Gizli pencerelerde oluyorsa bunu etkinleştirmek isteyebilirsiniz.",
+        "message": "Özel/gizli pencerelerde öğrenmeyi etkinleştirmek bilgisayarınızdaki özel arama geçmişinize dair izler bırakabilir. Varsayılan olarak, Privacy Badger halihazırda haberdar olduğu takipçileri Özel/Gizli pencerelerde engeller, ancak yeni takipçiler hakkında bilgi edinmez. Eğer gezintinizin büyük bölümü Özel/Gizli pencerelerde oluyorsa bunu etkinleştirmek isteyebilirsiniz.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "report_button": {
@@ -162,7 +162,7 @@
         "description": "Label for a text input box on the Tracking Domains options page tab."
     },
     "options_incognito_setting": {
-        "message": "Özel/Gizli pencerelerde öğren **",
+        "message": "Özel/Gizli pencerelerde öğren",
         "description": "Checkbox label on the general settings page"
     },
     "show_counter_checkbox": {
@@ -310,7 +310,7 @@
         "description": ""
     },
     "intro_beyond_ads_paragraph": {
-        "message": "Gizli takip pek çok yolla olur; reklamlar buzdağının sadece görünen kısmıdır. Privacy Badger <a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track sinyali gönderir</a> ve takipçilere sizi takip etmemesini söyler. Eğer bu isteğinizi yerine getirmezlerse, Badger'ınız onları engellemeyi öğrenir - ne tür bir reklam ya da takipçi olursa olsun.",
+        "message": "Gizli takip pek çok yolla olur; reklamlar buzdağının sadece görünen kısmıdır. Privacy Badger Do Not Track sinyali gönderir</a> ve takipçilere sizi takip etmemesini söyler. Eğer bu isteğinizi yerine getirmezlerse, Badger'ınız onları engellemeyi öğrenir - ne tür bir reklam ya da takipçi olursa olsun.",
         "description": "Intro page paragraph."
     },
     "report_close": {
@@ -358,7 +358,7 @@
         "description": ""
     },
     "options_enable_dnt_checkbox": {
-        "message": "Websitelere \"<a href='https://www.eff.org/issues/do-not-track' target='_blank'>Do Not Track</a>\" sinyali gönder",
+        "message": "Websitelere \"Do Not Track\" sinyali gönder",
         "description": "Checkbox label for enabling/disabling the Do Not Track signal, found on the general settings page"
     },
     "options_domain_filter_user": {
