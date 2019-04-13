@@ -129,17 +129,6 @@ header, #tabs {
     max-height: 400px; /* override popup.css */
 }
 
-#settings-suffix {
-    color: #555;
-    font-size: 12px;
-    max-width: 500px;
-    margin-left: 50px;
-}
-
-#settings-suffix div {
-    margin: 12px 0;
-}
-
 #check-dnt-policy-row {
     margin-left: 25px;
 }
@@ -147,4 +136,8 @@ header, #tabs {
 a, a:hover, a:active, a:visited{
   color: #00aaaa;
   text-decoration: underline;
+}
+
+.option_section {
+  margin: 2em 0em 1em 0;
 }

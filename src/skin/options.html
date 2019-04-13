@@ -164,33 +164,42 @@
           <span class="i18n_options_social_widgets_checkbox"></span>
         </label>
       </div>
-      <div class="checkbox">
-        <label>
-          <input type="checkbox" id="enable_dnt_checkbox">
-          <span class="i18n_options_enable_dnt_checkbox"></span>
-        </label>
+      <div class="option_section">
+        <strong>Do not track</strong>
+        <p>Do Not Track (DNT) is a way to keep users’ online behavior from being followed across the Internet by behavioral advertisers, analytics companies, and social media sites. <a target="_blank" href="https://www.eff.org/issues/do-not-track">Read more</a>.</a></p>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" id="enable_dnt_checkbox">
+            <span class="i18n_options_enable_dnt_checkbox"></span>
+          </label>
+        </div>
+        <div class="checkbox" id="check-dnt-policy-row">
+          <label>
+            <input type="checkbox" id="check_dnt_policy_checkbox">
+            <span class="i18n_options_dnt_policy_setting"></span>
+          </label>
+        </div>
+        </form>
       </div>
-      <div class="checkbox" id="check-dnt-policy-row">
-        <label>
-          <input type="checkbox" id="check_dnt_policy_checkbox">
-          <span class="i18n_options_dnt_policy_setting"></span>
-        </label>
+      <div class="option_section">
+        <strong>WebRTC</strong>
+        <p id="webrtc-warning" class="i18n_options_webrtc_warning"></p>
+        <div class="checkbox" id="webRTCToggle">        
+          <label>
+            <input type="checkbox" id="toggle_webrtc_mode" disabled>
+            <span class="i18n_options_webrtc_setting"></span>
+          </label>
+        </div>
       </div>
-      <div class="checkbox" id="webRTCToggle">
-        <label>
-          <input type="checkbox" id="toggle_webrtc_mode" disabled>
-          <span class="i18n_options_webrtc_setting"></span>
-        </label>
-      </div>
-      <div class="checkbox">
-        <label>
-          <input type="checkbox" id="learn-in-incognito-checkbox">
-          <span class="i18n_options_incognito_setting"></span>
-        </label>
-      </div>
-      <div id="settings-suffix">
-        <div id="webrtc-warning" class="i18n_options_webrtc_warning"></div>
-        <div id="incognito-warning" class="i18n_options_incognito_warning"></div>
+      <div class="option_section">
+        <strong>Private/Incognito mode</strong>
+        <p id="incognito-warning" class="i18n_options_incognito_warning"></p>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" id="learn-in-incognito-checkbox">
+            <span class="i18n_options_incognito_setting"></span>
+          </label>
+        </div>
       </div>
     </form>
   </div>
