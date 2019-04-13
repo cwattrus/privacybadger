@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "Bránit uniku lokální IP adresy skrze WebRTC *",
+        "message": "Bránit uniku lokální IP adresy skrze WebRTC",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {

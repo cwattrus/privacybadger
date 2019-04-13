@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "نگذار WebRTC آدرس IP را لو بدهد *",
+        "message": "نگذار WebRTC آدرس IP را لو بدهد",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {
@@ -242,7 +242,7 @@
         "description": "Part of a reminder to visit the intro page. Shown in popup until the user clicks on the reminder link or browses through the intro page."
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC میتواند منجر به لو رفتن آدرس IP شما شود. توجه داشته باشید که این گزینه میتواند باعث کندی عملکرد در برنامه های کنفرانسی وب مثل Google Hangouts شود.",
+        "message": "WebRTC میتواند منجر به لو رفتن آدرس IP شما شود. توجه داشته باشید که این گزینه میتواند باعث کندی عملکرد در برنامه های کنفرانسی وب مثل Google Hangouts شود.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "options_general_settings": {

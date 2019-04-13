@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "امنع WebRTC من تسريب عناوين الإنترنت المحلية *",
+        "message": "امنع WebRTC من تسريب عناوين الإنترنت المحلية",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {

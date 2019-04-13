@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "Impedir que WebRTC divulgue la dirección IP local *",
+        "message": "Impedir que WebRTC divulgue la dirección IP local",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {
@@ -242,7 +242,7 @@
         "description": "Part of a reminder to visit the intro page. Shown in popup until the user clicks on the reminder link or browses through the intro page."
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC puede divulgar su dirección IP local. Tenga en cuenta que habilitar esta opción puede reducir el rendimiento en aplicaciones de conferencia web como Google Hangouts.",
+        "message": "WebRTC puede divulgar su dirección IP local. Tenga en cuenta que habilitar esta opción puede reducir el rendimiento en aplicaciones de conferencia web como Google Hangouts.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "options_general_settings": {

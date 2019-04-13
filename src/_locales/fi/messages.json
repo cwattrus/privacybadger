@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "Estä WebRTC:tä vuotamasta paikallista IP-osoitetta *",
+        "message": "Estä WebRTC:tä vuotamasta paikallista IP-osoitetta",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {
@@ -242,7 +242,7 @@
         "description": "Part of a reminder to visit the intro page. Shown in popup until the user clicks on the reminder link or browses through the intro page."
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC voi vuotaa paikallisen IP-osoitteesi. Huomaa, että tämä valinta voi haitata Google Hangoutsin tapaisten konferenssisovellusten toimintaa.",
+        "message": "WebRTC voi vuotaa paikallisen IP-osoitteesi. Huomaa, että tämä valinta voi haitata Google Hangoutsin tapaisten konferenssisovellusten toimintaa.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "options_general_settings": {

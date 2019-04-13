@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "Спречи WebRTC да пропусти локалну IP адресу *",
+        "message": "Спречи WebRTC да пропусти локалну IP адресу",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {
@@ -242,7 +242,7 @@
         "description": "Part of a reminder to visit the intro page. Shown in popup until the user clicks on the reminder link or browses through the intro page."
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC can leak your local IP address. Note that enabling this option may degrade performance on web conferencing apps like Google Hangouts.",
+        "message": "WebRTC can leak your local IP address. Note that enabling this option may degrade performance on web conferencing apps like Google Hangouts.",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "options_general_settings": {

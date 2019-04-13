@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "Impedir que o WebRTC vaze o endereço de IP local *",
+        "message": "Impedir que o WebRTC vaze o endereço de IP local",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {

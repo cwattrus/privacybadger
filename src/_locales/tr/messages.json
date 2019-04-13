@@ -92,7 +92,7 @@
         "description": "Dropdown control setting on the Tracking Domains options page tab."
     },
     "options_webrtc_setting": {
-        "message": "WebRTC'nin yerel IP adresini açığa çıkarmasını engelle *",
+        "message": "WebRTC'nin yerel IP adresini açığa çıkarmasını engelle",
         "description": "Checkbox label on the general settings page"
     },
     "intro_welcome": {
@@ -242,7 +242,7 @@
         "description": "Part of a reminder to visit the intro page. Shown in popup until the user clicks on the reminder link or browses through the intro page."
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC yerel IP adresinizi açığa çıkarabilir. Bu seçeneğin etkinleştirilmesinin Google Hangouts gibi web konferans araçlarında performansı düşürebileceğini göz önünde bulundurun. ",
+        "message": "WebRTC yerel IP adresinizi açığa çıkarabilir. Bu seçeneğin etkinleştirilmesinin Google Hangouts gibi web konferans araçlarında performansı düşürebileceğini göz önünde bulundurun. ",
         "description": "Detailed explanation shown under checkboxes on the general settings page"
     },
     "options_general_settings": {
