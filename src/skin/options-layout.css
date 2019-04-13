@@ -6,10 +6,10 @@ body {
 }
 
 h1 {
-    color: #707070;
+    color: #202020;
     font-size: 24px;
-    font-weight: normal;
-    font-family: helvetica, arial, 'Lucida Grande', 'Segoe UI', Tahoma, 'DejaVu Sans', sans-serif;;
+    font-weight: bold;
+    font-family: Open Sans, helvetica, 'Segoe UI', sans-serif, arial;
     margin: 10px 8px;
 }
 
