@@ -119,6 +119,6 @@ a, a:hover, a:active, a:visited{
 
 .option_section {
   border-bottom: 1px solid #DCDCDC;
-  margin: 1em 0em 1em 0;
-  padding: 0em 0em 1em 0;
+  margin: 1rem 0rem 1.5rem 0;
+  padding: 0rem 0rem 1.5rem 0;
 }
