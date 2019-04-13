@@ -69,8 +69,10 @@ a.ui-button,
 a:link.ui-button,
 a:visited.ui-button,
 .ui-button {
-	color: #555555;
+	color: #0028FD;
+	font-weight: 600;
 	text-decoration: none;
+	text-transform: uppercase;	
 }
 .ui-state-hover,
 .ui-widget-content .ui-state-hover,
@@ -80,11 +82,11 @@ a:visited.ui-button,
 .ui-widget-header .ui-state-focus,
 .ui-button:hover,
 .ui-button:focus {
-	background: #dadada;
+	background: rgba(74, 101, 242, 0.08);
 	border: none;
 	border-radius: 20px;
-	font-weight: normal;
-	color: #212121;
+	color: #0028FD;
+	font-weight: 600;	
 }
 .ui-state-hover a,
 .ui-state-hover a:hover,
