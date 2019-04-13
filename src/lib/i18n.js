@@ -88,7 +88,7 @@ function setTextDirection() {
     });
 
     // fix floats
-    ['.btn-silo', '.btn-silo div', '#whitelistForm > div > div > div'].forEach((selector) => {
+    ['#whitelistForm > div > div > div'].forEach((selector) => {
       toggle_css_value(selector, "float", "left", "right");
     });
   }

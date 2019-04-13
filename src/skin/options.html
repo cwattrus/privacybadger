@@ -205,36 +205,39 @@
   </div>
 
   <div id="tab-manage-data">
-    <div class="btn-silo">
-      <p class="i18n_manage_data_intro"></p>
+    <div class="option_section">
+      <h3>User data</h3>
+      <p class="i18n_manage_data_intro"></p>      
       <div id="export">
-        <h3><span class="i18n_export_user_data"></span></h3>
+        <strong class="i18n_export_user_data"></strong>
         <button id="exportTrackers"><span class="i18n_download"></span></button>
       </div>
       <div id="import">
-        <h3><span class="i18n_import_user_data"></span></h3>
+        <strong class="i18n_import_user_data"></strong>
         <input type="file" class="importInput" id="importTrackers" accept=".json">
         <button id="importTrackerButton" class="importButton" type="submit"><span class="i18n_import"></span></button>
       </div>
     </div>
-    <div class="btn-silo">
+    <div class="option_section">
+        <h3>Sync</h3>
       <p class="i18n_sync_intro"></p>
       <div id="upload">
-        <h3><span class="i18n_upload_cloud"></span></h3>
+        <strong class="i18n_upload_cloud"></strong>
         <button id="cloud-upload"><span class="i18n_upload"></span></button>
       </div>
       <div id="download">
-        <h3><span class="i18n_download_cloud"></span></h3>
+        <strong class="i18n_download_cloud"></strong>
         <button id="cloud-download"><span class="i18n_download"></span></button>
       </div>
-    </div>
-    <div class="btn-silo">
+    </div>    
+    <div class="option_section">
+      <h3>Tracking domains</h3>
       <div id="reset">
-        <h3><span class="i18n_reset_data"></span></h3>
+        <strong class="i18n_reset_data"></strong>
         <button id="resetData" class="btn-danger"><span class="i18n_reset"></span></button>
       </div>
       <div id="remove">
-        <h3><span class="i18n_remove_all_data"></span></h3>
+        <strong class="i18n_remove_all_data"></strong>
         <button id="removeAllData" class="btn-danger"><span class="i18n_remove_all"></span></button>
       </div>
     </div>
