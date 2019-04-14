@@ -28,6 +28,22 @@
 	font-family: Open Sans, helvetica, 'Segoe UI', sans-serif, arial;
 	font-size: 1em;
 }
+.ui-widget input {
+	padding: 10px;
+}
+.ui-widget select {
+	border: none;	
+	width: 100%;
+}
+.ui-widget select:focus {
+	outline: none;
+}
+.ui-widget select option {
+	background-color: rgb(74,101,242, 0.08);
+	border-radius: 20px;
+	padding: 5px 15px;
+	margin-bottom: 5px;
+}
 .ui-widget.ui-widget-content {
 	border: none;
 }

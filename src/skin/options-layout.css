@@ -122,3 +122,10 @@ a, a:hover, a:active, a:visited{
   margin: 1rem 0rem 1.5rem 0;
   padding: 0rem 0rem 1.5rem 0;
 }
+.white_list_input_group {
+  display: flex;
+  margin-bottom: 20px;
+}
+.white_list_container {
+  max-width: 700px;
+}
