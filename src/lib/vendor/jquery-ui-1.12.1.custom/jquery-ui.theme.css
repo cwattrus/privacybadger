@@ -32,11 +32,11 @@
 	padding: 10px;
 }
 .ui-widget select {
-	border: none;	
+	border: 1px solid transparent;	
 	width: 100%;
 }
 .ui-widget select:focus {
-	outline: none;
+	outline: thin dotted #D9DBE6;	
 }
 .ui-widget select option {
 	background-color: rgb(74,101,242, 0.08);
